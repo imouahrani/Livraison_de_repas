@@ -1,0 +1,41 @@
+/* CSS Document */
+
+body
+{
+	background: url(../images/livreur/201705310188-full.jpg);
+	background-repeat:no-repeat;
+	-webkit-background-size: 100%;
+	-moz-background-size: 100%;
+	-o-background-size: 100%;
+	background-size: 100%;
+}
+
+input.textbox
+{
+	width : 400px;	
+}
+
+input.client_register
+{
+	padding: 10px;
+	margin-left: 125px; 
+	display: block;
+	background:url(http://localhost/projet/images/bouton/imagessar.jpg);
+}
+
+div#register_form
+{
+	background: ;
+	padding: 50px;
+}
+
+label.register_label, label.login_label
+{
+	padding: 5px;
+	display: block;
+	background: none;
+}
+
+
+
+

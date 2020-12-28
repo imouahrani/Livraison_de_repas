@@ -1,0 +1,112 @@
+body
+{
+	background:url(http://localhost/projet/images/restaurant/uber-eats-720x720.jpg);
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+
+div#container
+{
+	margin: auto;
+	padding: 15px;
+	width: 90%;
+	height: 1000px;
+	background-repeat:no-repeat;
+	-webkit-background-size: 100%;
+	-moz-background-size: 100%;
+	-o-background-size: 100%;
+	background-size: 100%;
+}
+
+div#header
+{
+	margin: auto;
+	height: auto;
+}
+
+h1#ubereat
+{
+	margin: auto;
+	display: block;
+	text-align: center;
+	font-size: 50px;
+	color: ;
+}
+
+div#right_content
+{
+	display: inline-block;
+	float: right;
+	width: 300px;
+}
+
+div#main_content
+{
+	width: 850px;
+}
+
+div#login_form
+{
+	padding: 10px;
+}
+
+div#register_form
+{
+	background: ;
+	padding: 10px;
+}
+
+p.login, p.register_client
+{
+	background: #FFFFFF;
+	padding: 5px;
+	margin: auto;
+	text-align: center;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+}
+
+label.register_label, label.login_label
+{
+	padding: 5px;
+	display: block;
+	background: url(../images/bouton/couleur-strategie-marque-design-620x400.jpg);
+}
+
+input.user_login, input.client_register
+{
+	padding: 5px;
+	display: block;
+	background: url(../images/bouton/imagessar.jpg);
+}
+
+input.textbox
+{
+	width: 100%;
+	padding: 10px;
+	border-radius: 5px;
+}
+
+.user_login, .client_register
+{
+	margin: auto;
+	margin-top: 10px;
+	display: block;
+	width: 150px;
+	font-size: 16px;
+	background: #960B0D;
+	color: #000000;
+	font-weight: bold;
+}
+
+a.ajouter
+{
+	background:url(../images/bouton/couleur-strategie-marque-design-620x400.jpg);
+	color:#000000;
+	text-align:center;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-weight:600px;
+	padding : 10px;
+	display : inline-block;
+	margin-left:30px;
+	margin-top: 11px;
+	
+}
